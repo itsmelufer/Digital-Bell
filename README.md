@@ -1,5 +1,7 @@
 # School Bell
 
+![UI](https://hichnefu.sirv.com/image.png)
+
 ![py](https://img.shields.io/badge/Python-3.13+-blue)
 ![pygame](https://img.shields.io/badge/Pygame-2.6.1-green)
 ![pyinstaller](https://img.shields.io/badge/PyInstaller-6.15.0-orange)
