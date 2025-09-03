@@ -31,4 +31,4 @@ Users can select their own audio file for the bell and create a schedule for aut
    build.bat
 ```
 
-A big thanks to *@Kouhzen* for helping me on V1 of this program this is now **V2**.
+A big thanks to [@Kouhzen](https://github.com/Kouhzen) for helping me on V1 of this program this is now **V2**.
