@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Environment files
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# PyInstaller outputs
+SchoolBellSystem.exe
